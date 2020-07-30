@@ -1,5 +1,6 @@
 Aplikasi ini khusus dibuatkan untuk para penggiat usaha RT/RW Net, bisa juga digunakan untuk usaha lainnya yg ingin merecord data pemasukan dan pengeluaran.
 
+https://youtu.be/gVUkQgSmxy0
 
 dibangun menggunaka PHP, Javascript dengan Framework Codeigniter.
 Untuk info lainnya bisa menghubungi.
